@@ -3,4 +3,10 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="spotifyAppButtonText">SPOTIFY STREAMER</string>
+    <string name="scoresAppButtonText">SCORES APP</string>
+    <string name="libraryButtonText">LIBRARY APP</string>
+    <string name="buildItBiggerButtonText">BUILD IT BIGGER</string>
+    <string name="xyzReaderButtonText">XYZ READER</string>
+    <string name="capstoneButtonText">CAPSTONE: MY OWN APP</string>
 </resources>
