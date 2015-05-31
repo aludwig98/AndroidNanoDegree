@@ -51,6 +51,7 @@ public class MainActivity extends ActionBarActivity {
             Context context = getApplicationContext();
             // Create the toast
             Toast toast = Toast.makeText(context, text, Toast.LENGTH_SHORT);
+            toast.show();
         }
     }
 }
